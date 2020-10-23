@@ -2,7 +2,7 @@
 schema: default
 title: Tartu linnavalitsuse andmekogud - 2015. aasta statistiline ülevaade
 title_en: Tartu City Government Datasets - Statistics for Tartu, 2015
-notes: "Tartu linnavalitsuse andmekogudest koondatud ja avatud andmed Tartu kodulehel on kättesaadaval <a href=\"https://www.tartu.ee/et/avaandmed\"> siit</a>."
+notes: ''
 notes_en: ''
 department: ''
 category:
